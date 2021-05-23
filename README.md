@@ -11,3 +11,7 @@ Aqui você vai encontrar o código para todas as aulas que possuirem.
 - [Aula #8 - Manipulação de dados](https://github.com/jsraiz/modulo-raiz-scripts-avulsos/blob/main/08-manipulacao.js)
 - [Aula #9 - Módulos](https://github.com/jsraiz/modulo-raiz-aula-modulos)
 - [Aula #10/#11/#12 - Normalização de dados](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.0.0)
+- [Aula #13 - Revisão protocolo HTTP - pt1](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.0)
+- [Aula #14 - Revisão protocolo HTTP - pt2](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.1)
+- [Aula #15 - Visão geral de Node streams](https://github.com/jsraiz/modulo-raiz-streams)
+- [Aula #16 - Enviando arquivos estáticos de forma automática](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.2)
