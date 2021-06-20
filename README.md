@@ -21,3 +21,5 @@ Aqui você vai encontrar o código para todas as aulas que possuirem.
 - [Aula #20 - Renderização: front-end com DOM API](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.6)
 - [Aula #21 - Renderização: DOM API declarativo - visão geral](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.7)
 - [Aula #22 - Renderização: implementando function el - parte 1](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.8)
+- [Aula #23 - Renderização - corrigindo function el para texto](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.9)
+- Aula #24 - Expressões regulares
