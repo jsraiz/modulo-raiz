@@ -23,3 +23,6 @@ Aqui você vai encontrar o código para todas as aulas que possuirem.
 - [Aula #22 - Renderização: implementando function el - parte 1](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.8)
 - [Aula #23 - Renderização - corrigindo function el para texto](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.9)
 - Aula #24 - Expressões regulares
+- [Aula #25 - Renderização - extraindo nome da tag com regexp](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.10)
+- [Aula #26 - Renderização - extraindo classes e id com regexp](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.11)
+- [Aula #27 - Renderização - Interface única para back e front - pt1](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.12)
