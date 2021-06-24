@@ -26,3 +26,4 @@ Aqui você vai encontrar o código para todas as aulas que possuirem.
 - [Aula #25 - Renderização - extraindo nome da tag com regexp](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.10)
 - [Aula #26 - Renderização - extraindo classes e id com regexp](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.11)
 - [Aula #27 - Renderização - Interface única para back e front - pt1](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.12)
+- [Aula #28 - Renderização - Interface única para back e front - pt2](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.13)
