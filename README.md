@@ -27,3 +27,6 @@ Aqui você vai encontrar o código para todas as aulas que possuirem.
 - [Aula #26 - Renderização - extraindo classes e id com regexp](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.11)
 - [Aula #27 - Renderização - Interface única para back e front - pt1](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.12)
 - [Aula #28 - Renderização - Interface única para back e front - pt2](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.13)
+- [Aula #29 - Renderização - Interface única - Servidor + desafio](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.14)
+- [Aula #30 - Renderização - Interface única - Navegador](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.15)
+- [Aula #31 - Renderização - Interface única - Criando componente Fragment](https://github.com/jsraiz/modulo-raiz-projeto/tree/1.1.16)
